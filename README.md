@@ -1,5 +1,14 @@
 # DioShopping
 
+## Technologys
+
+- ReactJs
+- React-router
+- React-redux
+- Material-ui
+- Bootstrap
+- Styled-components
+
 ## Screenshot
 
 ![dioshopping](https://user-images.githubusercontent.com/62728037/152368377-355a0f68-2c93-4ee6-a30f-b778a425153e.png)
